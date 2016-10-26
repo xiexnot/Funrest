@@ -1,6 +1,6 @@
-# forest
+# Funrest
 
-Forest is a story learning board based on micro-computer ([Arduino](https://www.arduino.cc/)) for imparied children.
+Funrest is a story learning board based on micro-computer ([Arduino](https://www.arduino.cc/)) for imparied children. Initially, Funrest is just a final project of courses in both NTU(National Taiwan University) and NTUST(National Taiwan University of Science and Technology). With the rapid development by two designer from NTUST, Funrest becomes a complete learning product for visual imparied children. In 2015, Funrest was exhibited in one of the most famous exhibitions among young designers - YODEX.
 
 ## Getting Started
 
@@ -18,3 +18,10 @@ Forest is a story learning board based on micro-computer ([Arduino](https://www.
 ## Notification
 
 No transfer of the materials (include programing code, design and voice files) is permitted and no subcontract is allowed to any third party.
+
+## Video
+
+[Youtube Video](https://www.youtube.com/watch?v=p5PjZqm9S_k)
+
+
+
